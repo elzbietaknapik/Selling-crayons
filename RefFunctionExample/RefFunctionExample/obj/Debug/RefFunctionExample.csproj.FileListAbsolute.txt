@@ -1,0 +1,7 @@
+C:\Users\adamk\source\repos\RefFunctionExample\RefFunctionExample\bin\Debug\RefFunctionExample.exe.config
+C:\Users\adamk\source\repos\RefFunctionExample\RefFunctionExample\bin\Debug\RefFunctionExample.exe
+C:\Users\adamk\source\repos\RefFunctionExample\RefFunctionExample\bin\Debug\RefFunctionExample.pdb
+C:\Users\adamk\source\repos\RefFunctionExample\RefFunctionExample\obj\Debug\RefFunctionExample.csprojAssemblyReference.cache
+C:\Users\adamk\source\repos\RefFunctionExample\RefFunctionExample\obj\Debug\RefFunctionExample.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\RefFunctionExample\RefFunctionExample\obj\Debug\RefFunctionExample.exe
+C:\Users\adamk\source\repos\RefFunctionExample\RefFunctionExample\obj\Debug\RefFunctionExample.pdb
