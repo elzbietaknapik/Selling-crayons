@@ -12,7 +12,7 @@ namespace RefFunctionExample
          static void Main(string[] args)
         {
             string path = "report.txt";
-            int number =100;
+            int number =99;
             
             int nrNow = number;
             string date = " ";
